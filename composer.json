@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Facebook_Pixel_Retargeting",
+    "name": "OpenMageModuleFostering\/Facebook_Pixel_Retargeting",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "The Facebook Pixel for Retargeting extension allows Facebook advertisers to build an audience from the users that visit their ecommerce store and retarget them using Facebook Ads.",
     "authors": [
-    {
-        "name": "Matthew Parke",
-        "email": "development@engagecommerce.io"
-    }
-],
+        {
+            "name": "Matthew Parke",
+            "email": "development@engagecommerce.io"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
